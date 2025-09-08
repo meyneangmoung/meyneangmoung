@@ -1,5 +1,6 @@
 # 💫 About Me:
-🌱 I’m currently learning<br>
+🌱 Still learning, still building, always growing.  
+<br>
 
 
 ---

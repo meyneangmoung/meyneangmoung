@@ -1,6 +1,7 @@
 # 💫 About Me:
 🌱 Still learning, still building, always growing.<br>
-☕ Powered by coffee & curiosity. <br>
+✨Calm mind
+🛠️ Code. Break. Fix. Repeat.
 
 
 # 📊 GitHub Stats:
